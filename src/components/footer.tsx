@@ -11,7 +11,7 @@ function Footer() {
       <div className="flex flex-col items-center md:items-start md:ml-0">
         <Logo />
         <p className="text-white text-xs mt-5 text-center md:text-left">
-          Copyright © 2020 Nexcent ltd.
+          Copyright © 2020 Nexcent ltd. 
         </p>
         <p className="text-white text-xs mt-2 text-center md:text-left">
           All rights reserved
@@ -22,6 +22,7 @@ function Footer() {
           <TwitterLogo size={16} weight="fill" className="text-white" />
           <YoutubeLogo size={16} weight="fill" className="text-white" />
         </div>
+
       </div>
 
       {/* Company */}
